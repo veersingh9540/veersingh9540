@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SUKHVEER SINGH</h1>
-<h3 align="center">As a seasoned Data Analytics Engineer with a rich educational background from Northeastern University and Pune University, I specialize in turning complex data into actionable insights. My expertise spans across statistical analysis, programming languages like Python and R, and advanced data analytics tools such as Tableau, Power BI, and various Python libraries. With professional experience at organizations like Ironwood Pharmaceuticals and Systemonex INC, I have honed my skills in data manipulation, analysis, visualization, and machine learning algorithms. My work not only demonstrates technical proficiency but also showcases my ability to communicate complex findings effectively to non-technical stakeholders. Driven by curiosity and a collaborative spirit, I am eager to contribute to a dynamic organization that values innovation and data-driven decision-making.</h3>
+<h3 align="center">As a seasoned Data Analytics Engineer with a rich educational background from Northeastern University and Pune University, I specialize in turning complex data into actionable insights. My expertise spans across statistical analysis, programming languages like Python and R, and advanced data analytics tools such as Tableau, Power BI, and various Python libraries. With professional experience at organization like Ironwood Pharmaceuticals, I have honed my skills in data manipulation, analysis, visualization, and machine learning algorithms. My work not only demonstrates technical proficiency but also showcases my ability to communicate complex findings effectively to non-technical stakeholders. Driven by curiosity and a collaborative spirit, I am eager to contribute to a dynamic organization that values innovation and data-driven decision-making.</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/veersingh9540/](github.com/veersingh9540/)
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/veersingh9899/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/veersingh9899/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/veersingh9899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veersingh9899" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
