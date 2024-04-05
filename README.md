@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm SUKHVEER SINGH</h1>
 <h3 align="center">As a Data Analytics Engineer with a rich educational background from Northeastern University and Pune University, I specialize in turning complex data into actionable insights. My expertise spans across statistical analysis, programming languages like Python and R, and advanced data analytics tools such as Tableau, Power BI, and various Python libraries. With professional experience at organization like Ironwood Pharmaceuticals, I have honed my skills in data manipulation, analysis, visualization, and machine learning algorithms. My work not only demonstrates technical proficiency but also showcases my ability to communicate complex findings effectively to non-technical stakeholders. Driven by curiosity and a collaborative spirit.</h3>
 
+- Statistical Analysis: PyMC3, Lifelines, PyStan, SciPy, Statsmodels, Pingouin
+- Data Manipulation: NumPy, Pandas, Datatable, Polars, Modin, Vaex
+- Machine Learning: Keras, Tensorflow, Scikit-learn
+- Web Scraping: Scrapy, Selenium, Beautiful Soup
+
 - 📫 How to reach me **singh.suk@northeastern.edu**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/veersingh9899/](https://www.linkedin.com/in/veersingh9899/)
