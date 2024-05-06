@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **singh.suk@northeastern.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/veersingh9899/](https://www.linkedin.com/in/veersingh9899/)
+- 📄 Know about my experiences [veersingh9899/](https://www.linkedin.com/in/veersingh9899/)
+- 📄 Portfolio [](https://veersingh9540.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
