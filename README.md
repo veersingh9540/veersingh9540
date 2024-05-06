@@ -6,7 +6,7 @@
 - Machine Learning: Keras, Tensorflow, Scikit-learn
 - Web Scraping: Scrapy, Selenium, Beautiful Soup
 
-- 📫 How to reach me **singh.suk@northeastern.edu** , **sukhveer.sing6745@gmail.com**
+- 📫 How to reach me **singh.suk@northeastern.edu** , **sukhveer.singh6745@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/veersingh9899/](https://www.linkedin.com/in/veersingh9899/)
 - 📄 Portfolio [https://veersingh9540.github.io/Portfolio/](https://veersingh9540.github.io/Portfolio/)
