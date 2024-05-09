@@ -5,6 +5,9 @@
 - Data Manipulation: NumPy, Pandas, Datatable, Polars, Modin, Vaex
 - Machine Learning: Keras, Tensorflow, Scikit-learn
 - Web Scraping: Scrapy, Selenium, Beautiful Soup
+- Frameworks: ReactJS, VueJS, Laravel, NextJS, Django
+- Testing: A/B testing, Hypothesis testing, Selenium, Regression/Non-regression testing
+- Cloud: AWS(Redshift, S3, DynamoDB, EC2), GCP(VertexAI), Heroku, Firebase
 
 - 📫 How to reach me **singh.suk@northeastern.edu** , **sukhveer.singh6745@gmail.com**
 
