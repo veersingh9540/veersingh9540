@@ -4,10 +4,10 @@
 I enjoy tackling diverse challenges, whether it’s enhancing user experiences or leveraging data to create smarter, more efficient solutions. Feel free to explore my projects, and let’s connect if you share similar interests or have any questions!</h3>
 
 - Statistical Analysis: PyMC3, Lifelines, PyStan, SciPy, Statsmodels, Pingouin
-- Data Manipulation: NumPy, Pandas, Datatable, Polars, Modin, Vaex
-- Machine Learning: Keras, Tensorflow, Scikit-learn
-- Web Scraping: Scrapy, Selenium, Beautiful Soup
-- Frameworks: ReactJS, VueJS, Laravel, NextJS, Django
+- Data Manipulation: NumPy, Pandas
+- Machine Learning: Keras, Tensorflow, Scikit-learn, PyTorch
+- Web Scraping: Scrapy, Selenium
+- Frameworks: ReactJS, NextJS, Django, Flask
 - Testing: A/B testing, Hypothesis testing, Selenium, Regression/Non-regression testing
 - Cloud: AWS(Redshift, S3, DynamoDB, EC2), GCP(VertexAI), Heroku, Firebase
 
