@@ -16,6 +16,9 @@ I enjoy tackling diverse challenges, whether it’s enhancing user experiences o
 - 📄 Know about my experiences [https://www.linkedin.com/in/veersingh9899/](https://www.linkedin.com/in/veersingh9899/)
 - 📄 Portfolio [https://veersingh9540.github.io/Portfolio/](https://veersingh9540.github.io/Portfolio/)
 
+<img src="https://profile-counter.glitch.me/veersingh9540/count.svg" alt="" />
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/veersingh9899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veersingh9899" height="30" width="40" /></a>
