@@ -11,7 +11,7 @@ I enjoy tackling diverse challenges, whether it’s enhancing user experiences o
 - Testing: A/B testing, Hypothesis testing, Selenium, Regression/Non-regression testing
 - Cloud: AWS(Redshift, S3, DynamoDB, EC2), GCP(VertexAI), Heroku, Firebase
 
-- 📫 How to reach me **singh.suk@northeastern.edu** , **sukhveer.singh6745@gmail.com**
+- 📫 How to reach me **singh.suk@northeastern.edu**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/veersingh9899/](https://www.linkedin.com/in/veersingh9899/)
 - 📄 Portfolio [https://veersingh9540.github.io/Portfolio/](https://veersingh9540.github.io/Portfolio/)
