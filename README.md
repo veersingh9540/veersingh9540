@@ -16,13 +16,13 @@ with a strong preference for the NYC / NJ area.
 
 ### What I work with
 
-**Languages** — Java · Python · Go · JavaScript / TypeScript · SQL · Bash  
-**Frontend** — React.js · Next.js · Tailwind CSS  
-**Backend** — Spring Boot · Node.js · Apache Kafka · MCP Server  
-**Cloud & DevOps** — AWS · Docker · Kubernetes · Terraform · CI/CD  
-**Databases** — PostgreSQL · MySQL · MongoDB · DynamoDB · Redis  
-**AI / ML** — PyTorch · LangChain · Hugging Face · RAG · NLP · OCR LLMs  
-**Agentic AI** — LangChain Agents · CrewAI · AutoGen · Multi-Agent Systems · MCP  
+**Languages** - Java · Python · Go · JavaScript / TypeScript · SQL · Bash  
+**Frontend** - React.js · Next.js · Tailwind CSS  
+**Backend** - Spring Boot · Node.js · Apache Kafka · MCP Server  
+**Cloud & DevOps** - AWS · Docker · Kubernetes · Terraform · CI/CD  
+**Databases** - PostgreSQL · MySQL · MongoDB · DynamoDB · Redis  
+**AI / ML** - PyTorch · LangChain · Hugging Face · RAG · NLP · OCR LLMs  
+**Agentic AI** - LangChain Agents · CrewAI · AutoGen · Multi-Agent Systems · MCP  
 
 ---
 
