@@ -1,7 +1,7 @@
 # Hey, I'm Sukhveer 👋
 
 Full-stack software engineer with an MS in Data Analytics from Northeastern University
-and a CS degree from Savitribai Phule Pune University — 3+ years shipping production
+and a CS degree from Savitribai Phule Pune University - 3+ years shipping production
 systems across healthcare, pharma, and AI. Open to opportunities across the US,
 with a strong preference for the NYC / NJ area.
 
@@ -10,10 +10,8 @@ with a strong preference for the NYC / NJ area.
 ### Background
 
 🎓 M.S. Data Analytics Engineering — Northeastern University, Boston  
-🎓 B.E. Computer Science — Savitribai Phule Pune University, India  
-💼 3+ years in industry — healthcare tech, pharmaceuticals, AI/ML  
-🛂 H1B Visa holder — no sponsorship needed, ready to start immediately  
-
+🎓 B.E. Computer Science - Savitribai Phule Pune University, India  
+💼 3+ years in industry - healthcare tech, pharmaceuticals, AI/ML  
 ---
 
 ### What I work with
