@@ -11,7 +11,7 @@ behave. When something's hard to build, that's usually when it gets interesting.
 
 ### What I work with
 
-**Languages** - Java · Python · Go · JavaScript / TypeScript · SQL · Bash  
+**Languages** - Java · Python · Go · JavaScript / TypeScript · SQL · Powershell  
 **Frontend** - React.js · Next.js · Tailwind CSS  
 **Backend** - Spring Boot · Node.js · Apache Kafka · MCP Server  
 **Cloud & DevOps** - AWS · Docker · Kubernetes · Terraform · CI/CD  
