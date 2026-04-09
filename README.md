@@ -28,15 +28,6 @@ with a strong preference for the NYC / NJ area.
 
 ### Projects
 
-**At work**
-
-- 🏥 **Prescription automation** — cut turnaround from 2 hrs to 5 mins using AWS + OCR LLMs at Cigna
-- 🤖 **MCP server** — governed LLM access layer serving 10+ internal engineering teams
-- 🔍 **RAG resume screener** — auto-classifies applicants by role, cut manual screening time by 70%
-- 🧠 **NER document pipeline** — trained on 50K+ docs, improved entity extraction accuracy by 18%
-
-**Personal & side projects**
-
 - 📉 **Customer churn predictor** — end-to-end MLOps pipeline that flags at-risk users 30 days early, served via REST API
 - 💳 **Real-time fraud detection** — Kafka-based streaming system that catches fraudulent transactions in milliseconds
 - 🏭 **Visual defect detector** — YOLO-based computer vision system for manufacturing quality control
