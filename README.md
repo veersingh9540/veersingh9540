@@ -28,16 +28,16 @@ with a strong preference for the NYC / NJ area.
 
 ### Projects
 
-- 📉 **Customer churn predictor** — end-to-end MLOps pipeline that flags at-risk users 30 days early, served via REST API
-- 💳 **Real-time fraud detection** — Kafka-based streaming system that catches fraudulent transactions in milliseconds
-- 🏭 **Visual defect detector** — YOLO-based computer vision system for manufacturing quality control
-- 🛍️ **Product listing generator** — upload a photo, get a full SEO-optimized e-commerce listing via vision + LLM
-- 📦 **Retail demand forecaster** — LSTM/Transformer model that predicts sales to reduce overstock and waste
-- 🤖 **Autonomous ops agent** — monitors Spring Boot logs, detects anomalies, auto-creates Jira tickets and Slack alerts
-- 📚 **Enterprise RAG system** — private Q&A over internal company docs, answers with citations, no data leaves your infra
-- 🔬 **Multi-agent research system** — CrewAI + AutoGen agents that autonomously produce cited research reports
-- 🧬 **Domain LLM fine-tuning** — fine-tuned Llama 3 on medical/legal data using LoRA for specialized assistants
-- 📝 **Smart meeting assistant** — Spring Boot + React SaaS that turns transcripts into summaries, action items, and follow-up drafts
+- 📉 **Customer churn predictor** - end-to-end MLOps pipeline that flags at-risk users 30 days early, served via REST API
+- 💳 **Real-time fraud detection** - Kafka-based streaming system that catches fraudulent transactions in milliseconds
+- 🏭 **Visual defect detector** - YOLO-based computer vision system for manufacturing quality control
+- 🛍️ **Product listing generator** - upload a photo, get a full SEO-optimized e-commerce listing via vision + LLM
+- 📦 **Retail demand forecaster** - LSTM/Transformer model that predicts sales to reduce overstock and waste
+- 🤖 **Autonomous ops agent** - monitors Spring Boot logs, detects anomalies, auto-creates Jira tickets and Slack alerts
+- 📚 **Enterprise RAG system** - private Q&A over internal company docs, answers with citations, no data leaves your infra
+- 🔬 **Multi-agent research system** - CrewAI + AutoGen agents that autonomously produce cited research reports
+- 🧬 **Domain LLM fine-tuning** - fine-tuned Llama 3 on medical/legal data using LoRA for specialized assistants
+- 📝 **Smart meeting assistant** - Spring Boot + React SaaS that turns transcripts into summaries, action items, and follow-up drafts
 
 ---
 
