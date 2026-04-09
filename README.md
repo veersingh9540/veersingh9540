@@ -1,17 +1,12 @@
 # Hey, I'm Sukhveer 👋
 
-Full-stack software engineer with an MS in Data Analytics from Northeastern University
-and a CS degree from Savitribai Phule Pune University - 3+ years shipping production
-systems across healthcare, pharma, and AI. Open to opportunities across the US,
-with a strong preference for the NYC / NJ area.
+MS from Northeastern · CS from Pune · 3 years breaking and fixing things in production.
+I build backend systems that actually scale, AI pipelines that actually work,
+and occasionally a frontend that doesn't look terrible.
 
----
+Currently obsessed with agentic AI, LLMs in production, and making distributed systems
+behave. When something's hard to build, that's usually when it gets interesting.
 
-### Background
-
-🎓 M.S. Data Analytics Engineering - Northeastern University, Boston  
-🎓 B.E. Computer Science - Savitribai Phule Pune University, India  
-💼 3+ years in industry - healthcare tech, pharmaceuticals, AI/ML  
 ---
 
 ### What I work with
@@ -28,16 +23,27 @@ with a strong preference for the NYC / NJ area.
 
 ### Projects
 
-- 📉 **Customer churn predictor** - end-to-end MLOps pipeline that flags at-risk users 30 days early, served via REST API
-- 💳 **Real-time fraud detection** - Kafka-based streaming system that catches fraudulent transactions in milliseconds
-- 🏭 **Visual defect detector** - YOLO-based computer vision system for manufacturing quality control
-- 🛍️ **Product listing generator** - upload a photo, get a full SEO-optimized e-commerce listing via vision + LLM
-- 📦 **Retail demand forecaster** - LSTM/Transformer model that predicts sales to reduce overstock and waste
-- 🤖 **Autonomous ops agent** - monitors Spring Boot logs, detects anomalies, auto-creates Jira tickets and Slack alerts
-- 📚 **Enterprise RAG system** - private Q&A over internal company docs, answers with citations, no data leaves your infra
-- 🔬 **Multi-agent research system** - CrewAI + AutoGen agents that autonomously produce cited research reports
-- 🧬 **Domain LLM fine-tuning** - fine-tuned Llama 3 on medical/legal data using LoRA for specialized assistants
-- 📝 **Smart meeting assistant** - Spring Boot + React SaaS that turns transcripts into summaries, action items, and follow-up drafts
+#### 🤖 Agentic AI
+| Project | What it does |
+|--------|-------------|
+| [Autonomous Ops Agent](#) | Watches app logs, detects anomalies, auto-files Jira tickets and Slack alerts - no human in the loop |
+| [Enterprise RAG System](#) | Ask questions in plain English, get cited answers from private company docs |
+| [Multi-Agent Research System](#) | CrewAI + AutoGen crew that autonomously produces full cited research reports |
+| [Smart Meeting Assistant](#) | Transcripts in → summaries, action items, and follow-up drafts out |
+
+#### 🧠 Machine Learning
+| Project | What it does |
+|--------|-------------|
+| [Customer Churn Predictor](#) | End-to-end MLOps pipeline that flags at-risk users 30 days before they leave |
+| [Real-Time Fraud Detection](#) | Kafka streaming system that catches fraudulent transactions in milliseconds |
+| [Retail Demand Forecaster](#) | LSTM/Transformer model that tells retailers exactly how much to stock |
+| [Domain LLM Fine-Tuning](#) | Llama 3 fine-tuned on medical and legal data using LoRA - generic → specialist |
+
+#### 👁️ Computer Vision & Generative AI
+| Project | What it does |
+|--------|-------------|
+| [Visual Defect Detector](#) | YOLO-powered quality control - spots manufacturing defects a human eye would miss |
+| [Product Listing Generator](#) | Photo in, full SEO-optimized e-commerce listing out - vision + LLM combined |
 
 ---
 
