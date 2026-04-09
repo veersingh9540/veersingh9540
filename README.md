@@ -1,23 +1,57 @@
-<h1 align="center">Hi 👋, I'm SUKHVEER SINGH</h1>
-<h3 align="center">I’m a passionate software engineer with a Master’s in Data Science and Analytics. My work spans a wide range of technologies and domains, including AI-driven chatbots, Augmented Reality (AR) applications, image recognition systems, video rendering, and video conferencing platforms. I’ve also built end-to-end full-stack websites, blending my expertise in both front-end and back-end development.
+# Hey, I'm Sukhveer 👋
 
-I enjoy tackling diverse challenges, whether it’s enhancing user experiences or leveraging data to create smarter, more efficient solutions. Feel free to explore my projects, and let’s connect if you share similar interests or have any questions!</h3>
+Full-stack software engineer with an MS in Data Analytics from Northeastern University
+and a CS degree from Savitribai Phule Pune University — 3+ years shipping production
+systems across healthcare, pharma, and AI. Open to opportunities across the US,
+with a strong preference for the NYC / NJ area.
 
-- Statistical Analysis: PyMC3, Lifelines, PyStan, SciPy, Statsmodels, Pingouin
-- Data Manipulation: NumPy, Pandas
-- Machine Learning: Keras, Tensorflow, Scikit-learn, PyTorch
-- Web Scraping: Scrapy, Selenium
-- Frameworks: ReactJS, NextJS, Django, Flask
-- Testing: A/B testing, Hypothesis testing, Selenium, Regression/Non-regression testing
-- Cloud: AWS(Redshift, S3, DynamoDB, EC2), GCP(VertexAI), Heroku, Firebase
+---
 
-- 📫 How to reach me **singh.suk@northeastern.edu**
+### Background
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/veersingh9899/](https://www.linkedin.com/in/veersingh9899/)
-- 📄 Portfolio [https://veersingh9540.github.io/Portfolio/](https://veersingh9540.github.io/Portfolio/)
+🎓 M.S. Data Analytics Engineering — Northeastern University, Boston  
+🎓 B.E. Computer Science — Savitribai Phule Pune University, India  
+💼 3+ years in industry — healthcare tech, pharmaceuticals, AI/ML  
+🛂 H1B Visa holder — no sponsorship needed, ready to start immediately  
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/veersingh9899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veersingh9899" height="30" width="40" /></a>
-</p>
+### What I work with
+
+**Languages** — Java · Python · Go · JavaScript / TypeScript · SQL · Bash  
+**Frontend** — React.js · Next.js · Tailwind CSS  
+**Backend** — Spring Boot · Node.js · Apache Kafka · MCP Server  
+**Cloud & DevOps** — AWS · Docker · Kubernetes · Terraform · CI/CD  
+**Databases** — PostgreSQL · MySQL · MongoDB · DynamoDB · Redis  
+**AI / ML** — PyTorch · LangChain · Hugging Face · RAG · NLP · OCR LLMs  
+**Agentic AI** — LangChain Agents · CrewAI · AutoGen · Multi-Agent Systems · MCP  
+
+---
+
+### Projects
+
+**At work**
+
+- 🏥 **Prescription automation** — cut turnaround from 2 hrs to 5 mins using AWS + OCR LLMs at Cigna
+- 🤖 **MCP server** — governed LLM access layer serving 10+ internal engineering teams
+- 🔍 **RAG resume screener** — auto-classifies applicants by role, cut manual screening time by 70%
+- 🧠 **NER document pipeline** — trained on 50K+ docs, improved entity extraction accuracy by 18%
+
+**Personal & side projects**
+
+- 📉 **Customer churn predictor** — end-to-end MLOps pipeline that flags at-risk users 30 days early, served via REST API
+- 💳 **Real-time fraud detection** — Kafka-based streaming system that catches fraudulent transactions in milliseconds
+- 🏭 **Visual defect detector** — YOLO-based computer vision system for manufacturing quality control
+- 🛍️ **Product listing generator** — upload a photo, get a full SEO-optimized e-commerce listing via vision + LLM
+- 📦 **Retail demand forecaster** — LSTM/Transformer model that predicts sales to reduce overstock and waste
+- 🤖 **Autonomous ops agent** — monitors Spring Boot logs, detects anomalies, auto-creates Jira tickets and Slack alerts
+- 📚 **Enterprise RAG system** — private Q&A over internal company docs, answers with citations, no data leaves your infra
+- 🔬 **Multi-agent research system** — CrewAI + AutoGen agents that autonomously produce cited research reports
+- 🧬 **Domain LLM fine-tuning** — fine-tuned Llama 3 on medical/legal data using LoRA for specialized assistants
+- 📝 **Smart meeting assistant** — Spring Boot + React SaaS that turns transcripts into summaries, action items, and follow-up drafts
+
+---
+
+📬 [sukhveer9953@gmail.com](mailto:sukhveer9953@gmail.com)  
+💼 [linkedin.com/in/veersingh9899](https://linkedin.com/in/veersingh9899)  
+🌐 [Portfolio](https://veersingh9540.github.io/Portfolio/)
