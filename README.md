@@ -9,7 +9,7 @@ with a strong preference for the NYC / NJ area.
 
 ### Background
 
-🎓 M.S. Data Analytics Engineering — Northeastern University, Boston  
+🎓 M.S. Data Analytics Engineering - Northeastern University, Boston  
 🎓 B.E. Computer Science - Savitribai Phule Pune University, India  
 💼 3+ years in industry - healthcare tech, pharmaceuticals, AI/ML  
 ---
