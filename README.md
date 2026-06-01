@@ -21,32 +21,7 @@ behave. When something's hard to build, that's usually when it gets interesting.
 
 ---
 
-### Projects
-
-#### 🤖 Agentic AI
-| Project | What it does |
-|--------|-------------|
-| [Autonomous Ops Agent](#) | Watches app logs, detects anomalies, auto-files Jira tickets and Slack alerts - no human in the loop |
-| [Enterprise RAG System](#) | Ask questions in plain English, get cited answers from private company docs |
-| [Multi-Agent Research System](#) | CrewAI + AutoGen crew that autonomously produces full cited research reports |
-| [Smart Meeting Assistant](#) | Transcripts in → summaries, action items, and follow-up drafts out |
-
-#### 🧠 Machine Learning
-| Project | What it does |
-|--------|-------------|
-| [Customer Churn Predictor](#) | End-to-end MLOps pipeline that flags at-risk users 30 days before they leave |
-| [Real-Time Fraud Detection](#) | Kafka streaming system that catches fraudulent transactions in milliseconds |
-| [Retail Demand Forecaster](#) | LSTM/Transformer model that tells retailers exactly how much to stock |
-| [Domain LLM Fine-Tuning](#) | Llama 3 fine-tuned on medical and legal data using LoRA - generic → specialist |
-
-#### 👁️ Computer Vision & Generative AI
-| Project | What it does |
-|--------|-------------|
-| [Visual Defect Detector](#) | YOLO-powered quality control - spots manufacturing defects a human eye would miss |
-| [Product Listing Generator](#) | Photo in, full SEO-optimized e-commerce listing out - vision + LLM combined |
-
----
 
 📬 [sukhveer9953@gmail.com](mailto:sukhveer9953@gmail.com)  
 💼 [linkedin.com/in/veersingh9899](https://linkedin.com/in/veersingh9899)  
-🌐 [Portfolio](https://veersingh9540.github.io/Portfolio/)
+🌐 [Portfolio](https://sukhveersingh.dev/)
